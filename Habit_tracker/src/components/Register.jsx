@@ -24,7 +24,7 @@ const Register = ({ navigate, setUser }) => {
         animate={{ scale: 1, opacity: 1 }}
         transition={{ duration: 0.3 }}
       >
-        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800">Join Habit Master</h2>
+        <h2 className="text-3xl font-bold mb-6 text-center text-gray-800">Join Habit Tracker</h2>
         <form onSubmit={handleSubmit}>
           <div className="mb-4">
             <label htmlFor="username" className="block text-sm font-medium text-gray-700 mb-2">

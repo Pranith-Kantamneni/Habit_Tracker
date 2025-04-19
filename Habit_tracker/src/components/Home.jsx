@@ -9,7 +9,7 @@ const Home = ({ navigate }) => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5 }}
       >
-        Welcome to Habit Master
+        Welcome to Habit Tracker
       </motion.h1>
       <motion.p
         className="text-xl mb-12 text-center max-w-2xl"
